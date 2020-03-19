@@ -27,8 +27,6 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "enrico-0.1.5.gem",
-    "enrico-0.1.6.gem",
     "enrico.gemspec",
     "lib/enrico.rb",
     "lib/enrico/country.rb",
